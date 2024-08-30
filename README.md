@@ -1,4 +1,4 @@
-# Captcha Handling Snippet (Death By Captcha
+# Captcha Handling Snippet (Death By Captcha)
 
 This repository demonstrates how to integrate Death by Captcha with Selenium to solve CAPTCHAs in an automated browser session.
 
